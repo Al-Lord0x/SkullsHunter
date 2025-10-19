@@ -8,7 +8,7 @@ Features:
 📊Forensic-grade reporting
 
 Install:
-git clone https://github.com/Lord0x/SkullsHunter
+git clone https://github.com/Al-Lord0x/SkullsHunter
 python3 SkullsHunter.py
 
 By Lord0x | LordWare Team
