@@ -1,0 +1,66 @@
+{
+  "target": "Lord0x",
+  "scan_date": "2025-10-19T16:36:30.733995",
+  "summary": {
+    "confirmed_profiles": 7,
+    "potential_leads": 0,
+    "platforms_scanned": 21,
+    "profiles_found": 7
+  },
+  "results": {
+    "confirmed": [
+      {
+        "platform": "github.com",
+        "url": "https://github.com/Lord0x",
+        "timestamp": "2025-10-19T16:35:10.640817",
+        "confidence": "high"
+      },
+      {
+        "platform": "www.twitch.tv",
+        "url": "https://www.twitch.tv/Lord0x",
+        "timestamp": "2025-10-19T16:35:11.941364",
+        "confidence": "high"
+      },
+      {
+        "platform": "steamcommunity.com",
+        "url": "https://steamcommunity.com/id/Lord0x",
+        "timestamp": "2025-10-19T16:35:11.982129",
+        "confidence": "high"
+      },
+      {
+        "platform": "twitter.com",
+        "url": "https://twitter.com/Lord0x",
+        "timestamp": "2025-10-19T16:35:12.036900",
+        "confidence": "high"
+      },
+      {
+        "platform": "www.reddit.com",
+        "url": "https://www.reddit.com/user/Lord0x",
+        "timestamp": "2025-10-19T16:35:12.371718",
+        "confidence": "high"
+      },
+      {
+        "platform": "instagram.com",
+        "url": "https://instagram.com/Lord0x",
+        "timestamp": "2025-10-19T16:35:12.433419",
+        "confidence": "high"
+      },
+      {
+        "platform": "www.deviantart.com",
+        "url": "https://www.deviantart.com/Lord0x",
+        "timestamp": "2025-10-19T16:35:13.621597",
+        "confidence": "high"
+      }
+    ],
+    "potential": [],
+    "search_results": [],
+    "metadata": {
+      "scan_duration": "81.11 seconds",
+      "target_variations": [
+        "Lord0x",
+        "Lord0x",
+        "Lord0x"
+      ]
+    }
+  }
+}
